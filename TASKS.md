@@ -1,14 +1,8 @@
-\## Project Tasks
+## Project Tasks
+- Repository setup
+- README collaboration
+- Owner updated task list
+- Collaborator updated task list
 
 
-
-\- Repository setup
-
-
-
-\- README collaboration
-
-
-
-\- Collaborator updated task list
 
