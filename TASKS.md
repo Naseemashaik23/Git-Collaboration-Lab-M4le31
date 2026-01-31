@@ -4,5 +4,7 @@
 
 \- README collaboration
 
+\- Owner updated task list
+
 
 
